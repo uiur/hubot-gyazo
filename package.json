@@ -1,0 +1,11 @@
+{
+  "name": "hubot-gyazo",
+  "version": "0.0.0",
+  "description": "hubot scripts for gyazo",
+  "main": "index.coffee",
+  "author": "Kazato Sugimoto",
+  "license": "MIT",
+  "dependencies": {
+    "hubot": "^2.7.5"
+  }
+}
