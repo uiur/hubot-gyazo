@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uiureo/gyazo-cli.git"
+    "url": "https://github.com/uiureo/hubot-gyazo.git"
   },
   "dependencies": {
     "hubot": "^2.7.5"
