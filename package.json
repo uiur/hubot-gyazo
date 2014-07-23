@@ -5,6 +5,10 @@
   "main": "index.coffee",
   "author": "Kazato Sugimoto",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uiureo/gyazo-cli.git"
+  },
   "dependencies": {
     "hubot": "^2.7.5"
   }
