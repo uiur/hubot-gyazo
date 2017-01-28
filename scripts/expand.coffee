@@ -9,7 +9,7 @@
 #   uiureo
 
 module.exports = (robot) ->
-  GYAZO_REGEXP = /(https?:\/\/(?:[^\.]+\.)?gyazo.com\/[0-9a-f]{32})\/?(?:\s|$)/gi
+  GYAZO_REGEXP = /(https?:\/\/(?:[^\.]+\.)?gyazo.com\/[0-9a-f]{32})\/?(?:\s|\?|$)/gi
 
   extractGyazoUrls = (text) ->
     urls = []
